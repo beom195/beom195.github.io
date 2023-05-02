@@ -1,4 +1,4 @@
-lang:                  en
+lang:                  ko
 title:                 Hydejack
 copyright:             © 2021. All rights reserved.
 
@@ -37,7 +37,7 @@ hydejack:
   hide_last_modified:  false
 
   dark_mode:
-    always:            false
+    always:            true
     dynamic:           true
     sunrise:           6
     sunset:            18
