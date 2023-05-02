@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "JinBeom Jeong"
   avatar           : "/assets/images/profile/myProfile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "안녕하세요. <br>나의 개발 블로그"
+  bio              : "안녕하세요. <br>범이의 개발 블로그"
   location         : "South Korea"
   # email            : "realcriminal195@gmail.com"
   links:
