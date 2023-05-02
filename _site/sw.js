@@ -1,6 +1,6 @@
-self.importScripts('/assets/js/data/swcache.js');
+self.importScripts('/https://beom195.github.io/assets/js/data/swcache.js');
 
-const cacheName = 'chirpy-20230502.121738';
+const cacheName = 'chirpy-20230502.133228';
 
 function verifyDomain(url) {
     for (const domain of allowedDomains) {
